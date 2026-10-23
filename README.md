@@ -9,7 +9,7 @@ modulu zálohuje databázi.
 
 | Modul | Verze | Popis |
 |---|---|---|
-| <a id="instagram"></a>`instagram` | 1.1.0 | Poslední fotky z Instagramu firmy na webu - připojení tlačítkem s návodem, obnova tokenu a stahování fotek samo (plánovaná úloha), upozornění e-mailem. Web: `instagramMedia($limit)`. |
+| <a id="instagram"></a>`instagram` | 1.1.1 | Poslední fotky z Instagramu firmy na webu - připojení tlačítkem s návodem, obnova tokenu a stahování fotek samo (plánovaná úloha), upozornění e-mailem. Web: `instagramMedia($limit)`. |
 
 ## Nastavení administrace
 
