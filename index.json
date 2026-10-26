@@ -72,7 +72,7 @@
                     "released": "2026-10-26",
                     "changelog": "První vydání: import z myFoxu, souběh, kontroly a přepnutí (odděleno z Rezervací 1.2).",
                     "url": "https://github.com/inferius/easyadmin-modules/releases/download/rezervace_myfox-v1.0.0/rezervace_myfox-1.0.0.zip",
-                    "sha256": "308e152126f1ab0d90f43050f374413dca2631b3925a7f4d276e7cd71e0ec271"
+                    "sha256": "c966f72f844ec9f9b5f9f9024c75e71f94202e9a59851057e4437a2523313b9b"
                 }
             ]
         },
