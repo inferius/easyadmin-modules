@@ -9,7 +9,11 @@ modulu zálohuje databázi.
 
 | Modul | Verze | Popis |
 |---|---|---|
-| <a id="instagram"></a>`instagram` | 1.1.1 | Poslední fotky z Instagramu firmy na webu - připojení tlačítkem s návodem, obnova tokenu a stahování fotek samo (plánovaná úloha), upozornění e-mailem. Web: `instagramMedia($limit)`. |
+| <a id="rezervace"></a>`rezervace` | 1.3.0 | Rezervace služeb: kalendář salonu, pracovní doba, volné termíny, klientky a online rezervace na webu se SMS připomínkami a zálohami. |
+| <a id="rezervace_myfox"></a>`rezervace_myfox` | 1.0.0 | Import klientek, poznámek a kalendáře z myFoxu do Rezervací, souběh obou systémů a přepnutí na vlastní rezervace jedním tlačítkem. Vyžaduje `rezervace`. |
+| <a id="sms"></a>`sms` | 0.4.0 | Odesílání SMS (připomínky, potvrzení) přes zvolenou SMS bránu: šablony s počítadlem znaků, fronta, stav doručení a upozornění na nízký kredit. |
+| <a id="platby"></a>`platby` | 0.4.0 | Platby a zálohy online: ruční potvrzení, QR platba převodem a platební brány (SumUp, Comgate), vracení plateb a přehled. |
+| <a id="instagram"></a>`instagram` | 1.2.1 | Poslední fotky z Instagramu firmy na webu. Připojení jedním tlačítkem s návodem krok za krokem, token i fotky se obnovují samy, při problému přijde e-mail. |
 
 ## Nastavení administrace
 
