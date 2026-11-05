@@ -102,6 +102,15 @@
             "homepage": "https://github.com/inferius/easyadmin-modules#platby",
             "versions": [
                 {
+                    "version": "0.4.1",
+                    "core": "2.0.3",
+                    "requires": [],
+                    "released": "2026-11-05",
+                    "changelog": "Neutrální texty (zákazník, provozovatel), README a testy bez vazby na konkrétní projekt. Správně uvedené minimální jádro 2.0.3 (služba webu z manifestu web.webapi pro notifikace bran). Rozhraní a migrace beze změny.",
+                    "url": "https://github.com/inferius/easyadmin-modules/releases/download/platby-v0.4.1/platby-0.4.1.zip",
+                    "sha256": "fd23e04ca07477eddf6ea82e44b3a39c4b3885448389ee2a33fa0d775a18f2dc"
+                },
+                {
                     "version": "0.4.0",
                     "core": "2.0.0",
                     "requires": [],
